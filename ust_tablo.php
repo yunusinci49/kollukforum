@@ -1,1 +1,0 @@
-<?php include("ust_ana.php") ?>
